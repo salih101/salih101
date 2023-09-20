@@ -46,5 +46,8 @@
 
 <h3 align="center">Connect With Me</h3>
 <div align="center">
-    <a href=""><img height="32px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"></a>
+    <a href="https://www.linkedin.com/in/muhammed-salih-8bb79a236/"><img height="32px" src="https://skillicons.dev/icons?i=linkedin">‎ ‎ ‎ </a>
+    <a href="https://www.instagram.com/_salih_101_/"><img height="32px" src="https://skillicons.dev/icons?i=instagram">‎ ‎ ‎ </a>
+    <a href=""><img height="32px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg">‎ ‎ ‎ </a>
+    <a href=""><img height="32px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg">‎ ‎ ‎ </a>
 </div>
