@@ -39,6 +39,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=salih101&show_icons=true&theme=holi&hide_border=true&bg_color=0D1117">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salih101&theme=holi&bg_color=0D1117&layout=compact&hide_border=true">
 </div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=salih101&bg_color=0D1117&hide_border=true&line=5293CB&color=D6E7FF">
 <img src="assests/borderseperator.gif">
 
   <h3 align="center">Connect With Me</h3>
