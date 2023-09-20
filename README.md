@@ -1,4 +1,3 @@
-
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Salih,+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Salih Welcome to my Profile! animated typed out">
 <img  src="assests/borderseperator.gif">
 
@@ -36,9 +35,9 @@
 <br>
 <h2 align="center"><strong> Github Statics </strong></h2><br>
 
-<div align="left">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=salih101&show_icons=true&theme=holi&hide_border=false&bg_color=0D1117">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salih101&theme=holi&bg_color=0D1117&layout=compact">
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=salih101&show_icons=true&theme=holi&hide_border=true&bg_color=0D1117">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salih101&theme=holi&bg_color=0D1117&layout=compact&hide_border=true">
 </div>
 <img src="assests/borderseperator.gif">
 
