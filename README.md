@@ -29,44 +29,19 @@
 <div align="center">
   <h2> <strong> Actively Learning </strong></h2>
   <img src="https://skillicons.dev/icons?i=py,django,dotnet,figma" alt="skills actively learning logos"> <br><br><br><br>
-  <h2> <strong> Plan to Learn </strong></h2>
+  <h2> <strong> Plan to Learn </strong></h2><br>
   <img src="https://skillicons.dev/icons?i=aws,bash,linux,flutter" alt="skills planning to learn logos">
 </div>
+<h2></h2>
+<br>
+<h2 align="center"><strong> Github Statics </strong></h2><br>
 
-  <img src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=HyunCafe&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&layout=compact" alt="Most used languages" /> <br>
-
-  <img src="https://streak-stats.demolab.com?    user=HyunCafe&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  />
-
-  <img src="https://github-readme-stats2-olive.vercel.app/api?username=HyunCafe&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
-</div> <br>
-
-[![HyunCafe's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=HyunCafe&custom_title=HyunCafe's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-<img src="assests/loficity.gif" alt="Lofi Nightlife city scene" />
-</p>
-
+<div align="center">
+  <a href="https://github.com/salih101">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=salih101&show_icons=true&theme=holi&hide_border=false&bg_color=0D1117">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salih101&theme=holi&bg_color=0D1117&layout=compa">
+</div>
 <img src="assests/borderseperator.gif">
-  <h3 align="center">Connect With Me</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/hyuncafe/" target="_blank">
-    <img align="center" alt="linkedin logo" height="50" width="50" src="assests/linkedinlogo.png"/>
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://profile-summary-for-github.herokuapp.com/user/HyunCafe" target="_blank">
-    <img align="center" alt="github logo" height="50" width="50" src="assests/githublogo.png"/>
-  </a> &nbsp;&nbsp;
-  
-  <a href="mailto:eparksuncafe@gmail.com" target="_blank">
-    <img align="center" alt="gmail logo" height="50" width="50" src="assests/gmailogo.png" />
-  </a> &nbsp;&nbsp;
 
-  <a href="https://dev.to/hyuncafe" target="_blank">
-    <img align="center" alt="My Dev.to link" height="50" width="50" src="assests/devtologo.png"/>
-</a> &nbsp;&nbsp;
-  <a>
-       <a href="https://discord.gg/sEmsVmdH2C" target="_blank">
-    <img align="center" alt="Join My Discord Server" height="50" width="50" src="assests/discordlogo.png"/>
-    <span>HyunSun#7206</span>
-      </a>
-</p> 
+  <h3 align="center">Connect With Me</h3>
+
