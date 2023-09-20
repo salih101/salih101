@@ -48,6 +48,5 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/muhammed-salih-8bb79a236/"><img height="32px" src="https://skillicons.dev/icons?i=linkedin">‎ ‎ ‎ </a>
     <a href="https://www.instagram.com/_salih_101_/"><img height="32px" src="https://skillicons.dev/icons?i=instagram">‎ ‎ ‎ </a>
-    <a href=""><img height="32px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg">‎ ‎ ‎ </a>
-    <a href=""><img height="32px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg">‎ ‎ ‎ </a>
+    <a href="https://twitter.com/salih_101_"><img height="32px" src="https://skillicons.dev/icons?i=twitter">‎ ‎ ‎ </a>
 </div>
