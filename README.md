@@ -1,5 +1,5 @@
 
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Salih+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Salih Welcome to my Profile! animated typed out">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Salih,+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Salih Welcome to my Profile! animated typed out">
 <img  src="assests/borderseperator.gif">
 
 <p align="center">
@@ -9,33 +9,28 @@
 <a href="https://app.daily.dev/salih101"><img align='right' src="https://api.daily.dev/devcards/4b9ffe43e6ec468ea4a8c7c81e42aca9.png?r=c2b" width="400" alt="salih101's Dev Card"/></a>
 
 
-<h2 align="center"> Self-taught, curious, and <img src="assests/flamey.gif" width="30"/>passionate<img src="assests/flamey.gif" width="30"/> about coding!</h2>
+<h1 align="center">Passionate Pythonista🐍</h1>
 
-* 🌳 I’m currently learning Vanilla JavaScript! <br> 
-Actively Going through:
-  - 100 Devs with Leon
-  - The Odin Project: Fundamentals + Full Stack JavaScript
-  - Udemy: The Complete Javascript Course w/ Jonas Schmedtmann  <br>
+* 🎓 I’m currently learning Django!
+  
+* 🏫 College Student
 
-* 🐾 I’m looking to network and make friends here! <br><br>
+* 🐾 I’m looking to network and make friends here!
 
-* 🌊 2023 Goals: Contribute more to Open Source projects <br><br>
+* 🌊 2023 Goals: Contribute more to Open Source projects 
 
-* ☕ Interest: Cats, Coffee, and Coding. <br><br>
+* ☕ Interest: Coffee, and Coding.
 
-* :octocat: Hobbies: Sleeping, Anime/Manga, Gacha Games, Discord, and Reddit. <br><br>
+* :octocat: Hobbies: Games ┇ Music ┇ Movies<br><br>
 
-<h2></h2><br>
+<h2></h2>
 
-<p align="center"> 
-  <img src="assests/nightlife.gif" alt="Lofi Nightlight scene" /> 
-</p>
 
 <div align="center">
   <h2> <strong> Actively Learning </strong></h2>
-  <img src="https://skillicons.dev/icons?i=bash,git,linux,nim,html,css,js" alt="skills actively learning logos"> <br> 
+  <img src="https://skillicons.dev/icons?i=py,django,dotnet,figma" alt="skills actively learning logos"> <br><br><br><br>
   <h2> <strong> Plan to Learn </strong></h2>
-  <img src="https://skillicons.dev/icons?i=py,react,bootstrap,sass,ts,netlify" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=aws,bash,linux,flutter" alt="skills planning to learn logos">
 </div>
 
 <p align="center"><br>
