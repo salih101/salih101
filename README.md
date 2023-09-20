@@ -42,5 +42,9 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=salih101&bg_color=0D1117&hide_border=true&line=5293CB&color=D6E7FF">
 <img src="assests/borderseperator.gif">
 
-  <h3 align="center">Connect With Me</h3>
 
+
+<h3 align="center">Connect With Me</h3>
+<div align="center">
+    <a href=""><img height="32px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"></a>
+</div>
