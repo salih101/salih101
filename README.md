@@ -39,7 +39,7 @@
 <div align="center">
   <a href="https://github.com/salih101">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=salih101&show_icons=true&theme=holi&hide_border=false&bg_color=0D1117">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salih101&theme=holi&bg_color=0D1117&layout=compa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salih101&theme=holi&bg_color=0D1117&layout=compact">
 </div>
 <img src="assests/borderseperator.gif">
 
