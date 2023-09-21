@@ -49,4 +49,5 @@
     <a href="https://www.linkedin.com/in/muhammed-salih-8bb79a236/"><img height="32px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/LinkedIN_white.svg">‎ ‎ ‎ </a>
     <a href="https://www.instagram.com/_salih_101_/"><img height="32px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Instagram_white.svg">‎ ‎ ‎ </a>
     <a href="https://twitter.com/salih_101_"><img height="32px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Twitter_white.svg">‎ ‎ ‎ </a>
+    <a href="mailto:salih101dev@gmail.com"><img height="32px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Gmail_white.svg">‎</a>
 </div>
